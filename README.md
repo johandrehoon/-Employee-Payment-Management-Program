@@ -26,5 +26,8 @@ In the `main.cpp` file, an `EmployeeList` object is created to store multiple em
    - Total amount to be paid
 
 ## Example
-
 Here is a brief example of what the output might look like:
+![Screenshot 2024-08-31 093309](https://github.com/user-attachments/assets/efa97b76-d31f-44c1-b52e-f478b48fe389)
+
+
+
